@@ -2,15 +2,15 @@
 
 -------------------
 
-Publish Date:
+Publish Date:7/27/2024
 
-Affected Versions:
+Affected Versions: 2.8.4
 
-Vulnerable Component:
+Vulnerable Component: dialog component 
 
-CWE:
+CWE-79: Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')
 
-CVE: 
+CVE: Pending
 
 
 ### Summary
@@ -23,8 +23,7 @@ The vulnerability allows an attacker to inject malicious scripts into certain fi
 
 This patch includes the following fixes:
 
-* Input Validation
-- HE
+* Validation of user supplied data.
 
 ### Mitigation
 -------------
@@ -36,7 +35,3 @@ If you are unable to apply the patch immediately, you can mitigate the risk by t
 * Monitor for signs of exploitation
 
 
-### Acknowledgments
-----------------
-
-[This patch was developed in collaboration with list any collaborators or organizations that contributed to the patch].
