@@ -2,7 +2,6 @@
 
 -------------------
 
-### Vulnerability Information 
 Publish Date:
 
 Affected Versions:
