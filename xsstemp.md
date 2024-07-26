@@ -1,14 +1,13 @@
-[Headline]
+# [Headline]
 
--------------------
 -------------------
 
 ### Vulnerability Information 
 Publish Date:
 
-Vulnerable Component:
-
 Affected Versions:
+
+Vulnerable Component:
 
 CWE:
 
