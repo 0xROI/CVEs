@@ -35,8 +35,6 @@ If you are unable to apply the patch immediately, you can mitigate the risk by t
 * Implement additional security measures to detect and prevent attacks
 * Monitor for signs of exploitation
 
-  
--esdfs
 
 ### Acknowledgments
 ----------------
