@@ -5,9 +5,13 @@
 
 ### Vulnerability Information 
 Publish Date:
+
 Vulnerable Component:
+
 Affected Versions:
+
 CWE:
+
 CVE: 
 
 
@@ -34,6 +38,7 @@ If you are unable to apply the patch immediately, you can mitigate the risk by t
 * Restrict access to the vulnerable component
 * Implement additional security measures to detect and prevent attacks
 * Monitor for signs of exploitation
+-esdfs
 
 ### Acknowledgments
 ----------------
