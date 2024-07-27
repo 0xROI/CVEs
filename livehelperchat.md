@@ -1,4 +1,4 @@
-# LiveHelperChat extension v.1.6 is vulnerable to 4 RXSS
+# LiveHelperChat extension fbmessenger v.1.6 is vulnerable to 4 RXSS
 
 -------------------
 
