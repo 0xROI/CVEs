@@ -8,6 +8,8 @@ Affected Versions: 1.6
 
 CWE-79: Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')
 
+Severity: Medium
+
 CVE: Pending
 
 
