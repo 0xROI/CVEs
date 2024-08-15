@@ -10,7 +10,7 @@ CWE-79: Improper Neutralization of Input During Web Page Generation ('Cross-site
 
 Severity: High
 
-CVE: Pending
+CVE: CVE-2024-42867
 
 
 ### Summary
